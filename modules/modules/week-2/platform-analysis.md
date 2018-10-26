@@ -24,7 +24,7 @@ All platforms have a terms of use. And, each of them is unique. Terms of use are
    4. Put into your own words a list of "rules of thumb" for bot makers who want to use your chosen platform. Things they should be aware of? Things they should, or shouldn't, do? 
 3. Create a [GitBook](https://www.gitbook.com) account. 
 4. Make a book on GitBook that is descriptively titled with regard to this course. 
-5. Then, make a specific page within that book that is descriptively titled, and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, find an example of what your document might look like_ [_here_](../../../assignment-examples/assignment-examples/social-machinic-bot-concept-image/platform-analysis-example.md)_.\)_
+5. Then, make a specific page within that book that is descriptively titled, and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, find an example of what your document might look like_ [_here_](../../../assignment-examples/assignment-examples/platform-analysis-example.md)_.\)_
    1. The Rules on Bots Quoted Directly from the Terms of Use. 
    2. What the Rules Mean. 
    3. Rules of Thumb for Making _Platform Name_ Bots. 

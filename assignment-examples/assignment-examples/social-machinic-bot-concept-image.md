@@ -16,7 +16,7 @@ Many people tend to think about technology as somethign that is "above" philosop
 
 ### **Platform** 
 
-I will use [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/)to make my bot. To do so I will be writing lists of technology into the dictionary of the bot as well as lists of philosophers. I've located both a list of [philosophers](https://en.wikipedia.org/wiki/Lists_of_philosophers)and a list of digital [technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies). I plan to write these into the software in order to populate the contents of the bot. After a quick search for "JSON list of adjectives," I've also located a preformatted list of [adjectives](https://github.com/dariusk/corpora/blob/master/data/words/adjs.json)that I will mix in with my pre-written sentences on the bot \(this will add variety of expression to them\). 
+I will use [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) to make my bot. To do so I will be writing lists of technology into the dictionary of the bot as well as lists of philosophers. I've located both a list of [philosophers](https://en.wikipedia.org/wiki/Lists_of_philosophers) and a list of digital [technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies). I plan to write these into the software in order to populate the contents of the bot. After a quick search for "JSON list of adjectives," I've also located a preformatted list of [adjectives](https://github.com/dariusk/corpora/blob/master/data/words/adjs.json) that I will mix in with my pre-written sentences on the bot \(this will add variety of expression to them\). 
 
 ### **Platform Considerations**
 

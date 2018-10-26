@@ -56,6 +56,6 @@
 ## Assignment Examples
 
 * [Assignment Examples](assignment-examples/assignment-examples/README.md)
-  * [Example: Social Machinic Bot Concept/Image](assignment-examples/assignment-examples/social-machinic-bot-concept-image/README.md)
-    * [Example: Platform Analysis Example](assignment-examples/assignment-examples/social-machinic-bot-concept-image/platform-analysis-example.md)
+  * [Example: Social Machinic Bot Concept/Image](assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)
+  * [Example: Platform Analysis Example](assignment-examples/assignment-examples/platform-analysis-example.md)
 
