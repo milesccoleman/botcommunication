@@ -29,7 +29,7 @@ Using what you learned from your platform analysis, you will start doing prelimi
    3. Add your image to the profile page. 
    4. Copy the URL to your bot's social media profile page. 
 4. Go to the [GitBook](https://www.gitbook.com) book you made for your platform analysis. 
-   1. Make a page within that book that is descriptively titled and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, find an example of what your document might look like_ [_here_](../../../assignment-examples/social-machinic-bot-concept-image.md)_.\)_
+   1. Make a page within that book that is descriptively titled and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, find an example of what your document might look like_ [_here_](../../../assignment-examples/assignment-examples/social-machinic-bot-concept-image/)_.\)_
       1. Your bot name. 
       2. Your bot description. 
       3. A rationale for its existence \(does it add to art, help us think about politics?\). 
