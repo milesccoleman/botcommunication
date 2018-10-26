@@ -86,13 +86,21 @@ With these kinds of examples it's easy to see that social bots are a problem. Ho
 
 Because they rely on deception, here in class we won't be making social bots. But it is important to think deeply alongside the more dystopic realities of such strategies, right alongside the possibilities of more utopian ones.  
 
-Where social bots rely on deception to be functional, there are also social machines that are more "up front" about being bots. 
+There are also social machines that are more "up front" about being bots. 
 
 
 
 ### Machinic Bots
 
-In contrast to social bots, there are also bots that are effective precisely because they are _machines._ We will defined these as _machinic bots_. 
+In contrast to social bots, there are also bots that are effective precisely because they are _machines._ We will define these as _machinic bots_. 
+
+
+
+#### The Magic of Machines
+
+In the Ajataśatru 
+
+![Buddha-Pada Ikshvaku, 3rd century A.D., Nagarjunakonda - Kenneth Lu](../../../.gitbook/assets/5637635867_586dee7806_z.jpg)
 
 ```
 $ give me super-powers
