@@ -72,8 +72,6 @@ In the case of computer generated poetry, social bots seem harmless. Conversely,
 
 {% embed url="https://www.theguardian.com/media/2017/nov/26/anti-muslim-online-bots-fake-acounts" %}
 
-
-
 With these kinds of examples it's easy to see that social bots are a problem. However, there are examples that at least force us to think about that easy conclusion, in that perhaps some amount of principled deception might be a good thing. 
 
 
@@ -96,26 +94,83 @@ In contrast to social bots, there are also bots that are effective precisely bec
 
 
 
-#### The Magic of Machines
+#### The Machinic "Aura"
 
-In the Ajataśatru 
+"The Kingdom of Rome" is a story derived from the _Lokapannatti_, a Pali text written in the MIddle Ages.  In the story, Ajataśatru, an ancient Indian king learns of the well-gaurded Roman secret of making "spirit movement engines." With the help of an engineer versed in the art of making such machines, he builds a set of robot gaurds to protect a shrine full of Buddhist relics. 
 
-![Buddha-Pada Ikshvaku, 3rd century A.D., Nagarjunakonda - Kenneth Lu](../../../.gitbook/assets/5637635867_586dee7806_z.jpg)
+![Buddha-Pada Ikshvaku, 3rd century A.D. \(about 600 years after the alleged events of &quot;The Kingdom of Rome&quot;\), Nagarjunakonda - Kenneth Lu](../../../.gitbook/assets/5637635867_586dee7806_z.jpg)
 
-```
-$ give me super-powers
-```
+Eventually, the robot gaurds are dismantled and King Aśoka \(Ajataśatru's grandson\) is able to collect the relics of the Buddha and redistribute them for all to appreciate. 
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+"The Kingdom of Rome" is speculated to have been written between the 11th or 12th century AD, making the text at least 800 years old. And the contents of the story are about a happening that occurred even earlier than that \(circa 300 BCE\)! It is one of the oldest known accounts of robots. 
+
+The story is whimsical, fantastic and beautifully asks the reader to reflect on things like the spirit \(as in that which drives the machines, and possibly people\) and even power differentials spoken through the artifacts and techniques of our technologies \(as in the unwillingness of Rome to share their science\). 
+
+Imagine interacting with one of those robots. Imagine further that you witnessed one writing the poetry that would be used in the "Bot or Not?" website cited earlier? Would this not make that writing somehow magical? Or would you attribute nonhuman qualities to the robot, like objectivity?  
+
+In any case you would treat the messages created by that bot \(as social as they may seem\) as those with their very own "aura," or special energy: a machinic aura. 
+
+{% hint style="success" %}
+**Machinic bots** are bots that exact communicative effects that rely on the ability to appear as machines. That is, social bots, are bots that employ the strategy of enhancing messages with machinic aura \(the energy of a machine\) in order to compell humans. 
+
+_Note: While not relying on the status of a social entity per se, a machinic bot is technically also a social machine in that it is designed to coordinate meaning with humans._ 
 {% endhint %}
 
-Once you're strong enough, save the world:
+#### 
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+#### Machines as Communicators 
+
+Combining our earlier [discussion](../content-1/content-types-and-uses-of-self-moving-computational-media.md) of automated communication as exposition, persuasion, and artistic experience with the current discussion of machinic bot strategies it is useful to imagine the bot as their own entities as they make their own messages. This has implications to our main categories of automated communication. 
+
+
+
+#### Machines as Artists \(Artistic Experience\) 
+
+Sometimes messages created by bots are effective because they come directly from machines giving it a sort of magical "aura." Fun, novelty, excitement characterize these kinds of messages. Teleport Bot, for example, tells small stories that ask the viewer to think deeply. Does the fact that this comes from a bot enhance your artisitic experience with it? 
+
+![](../../../.gitbook/assets/screen-shot-2018-10-26-at-12.50.02-pm.png)
+
+#### 
+
+#### Machines as Scientists \(Exposition\) 
+
+Beyond fun art though, the machinic aura can also be appropriated by automating messages in ways that "copy" established traditions of credibility in order to add legitimacy to illegitimate claims. Vaccine Calculator, for instance, mimics the language of credible scientific consensus and links back to psuedoscientific websites. In a way, the automated character of aura of the bot, helps augment the attempt at "objectivity" and "facticity" of its messaging. 
+
+![](../../../.gitbook/assets/screen-shot-2018-10-26-at-12.54.28-pm.png)
+
+
+
+#### Machines as Politicians \(Persuasion\) 
+
+Perhaps in a way that combines elements of art and exposition, we can also make arguments about things like politicians. A parody of Donald Trump, built from a machine learning system "trained" to speak like Donald Trump--DeepDrumpf--for example, helps audience members treat the content as "facts" to be witnessed rather than a performance to agree with \(as would be in the case of a human performing the parody of Trump\). 
+
+![](../../../.gitbook/assets/screen-shot-2018-10-26-at-1.19.54-pm.png)
+
+The overall learning moment here is that, yes, social bot strategies work by tricking people, and therefore, are largely untenable as an ethical means of communication. However, just because machinic bot strategies are not tricking people into thinking they are human doesn't mean ethical consideration of the kinds of messaging they create is not necessary. 
+
+Machines can argue, and sometimes, we listen to them _specifically because they are machines_. 
+
+### \*\*\*\*
+
+### **This Week's Reading and Assignments**
+
+#### **Reading**
+
+**Chapters 5 and 6 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about a social machinic bot concept that you want to make. What would its personality be? What would the purpose of that bot be? Would it solve a problem? Raise awareness? Would it be art? What platform will you use? 
+
+\*\*\*\*
+
+#### **Assignments**
+
+When you are done with the readings for the week, building on your work [analyzing a bot platform](../week-2/platform-analysis.md), and looking on to our upcoming [social machinic bot](../week-4/twitterbot.md) assignment, come up with a [social machinic bot concept/image](twitterbot-concept-image.md). 
+
+
+
+#### Further Readings
+
+{% embed url="https://www.tandfonline.com/doi/abs/10.1080/23736992.2018.1476149" %}
+
+{% embed url="https://www.tandfonline.com/doi/abs/10.1080/15358593.2018.1517417?journalCode=rroc20" %}
 
 
 

@@ -1,4 +1,4 @@
-# Platform Analysis Example
+# Example: Platform Analysis Example
 
 ## Slack Terms of Use for Bot Makers
 

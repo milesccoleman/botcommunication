@@ -22,10 +22,10 @@
     * [Assignment: Platform Analysis](modules/modules/week-2/platform-analysis.md)
   * [Week 3: Social Machines](modules/modules/week-3/README.md)
     * [Content: Social Machines](modules/modules/week-3/content-machines-as-advocates.md)
-    * [Assignment: Social Bot Concept/Image](modules/modules/week-3/twitterbot-concept-image.md)
+    * [Assignment: Social Machinic Bot Concept/Image](modules/modules/week-3/twitterbot-concept-image.md)
   * [Week 4: Message Scripting](modules/modules/week-4/README.md)
     * [Content: Making Compelling Scripts](modules/modules/week-4/content-making-compelling-scripts.md)
-    * [Assignment: Social Bot](modules/modules/week-4/twitterbot.md)
+    * [Assignment: Social Machinic Bot](modules/modules/week-4/twitterbot.md)
   * [Week 5: Chatbots](modules/modules/week-5/README.md)
     * [Content: Machines as Guides](modules/modules/week-5/content-machines-as-guides.md)
     * [Assignment: Chatbot Persona](modules/modules/week-5/chatbot-persona.md)
@@ -55,5 +55,6 @@
 
 ## Assignment Examples
 
-* [Platform Analysis Example](assignment-examples/platform-analysis-example.md)
+* [Example: Platform Analysis Example](assignment-examples/platform-analysis-example.md)
+* [Example: Social Machinic Bot Concept/Image](assignment-examples/social-machinic-bot-concept-image.md)
 

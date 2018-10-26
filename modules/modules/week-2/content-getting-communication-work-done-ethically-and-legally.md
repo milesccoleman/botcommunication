@@ -122,7 +122,7 @@ There are many bot platforms. This is but just a small list of those. No matter 
 
 #### **Reading**
 
-**Chapter 3 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the specific platform that you would like to use to make a social bot eventually. 
+**Chapter 3 and 4 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the specific platform that you would like to use to make a social bot eventually. 
 
 \*\*\*\*
 
