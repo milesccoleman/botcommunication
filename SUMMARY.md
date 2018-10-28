@@ -26,9 +26,9 @@
     * [Assignment: Chatbot Persona](modules/modules/week-5/chatbot-persona.md)
   * [Week 6: Conversational Interfaces](modules/modules/week-6/README.md)
     * [Assignment: Chatbot Prototype](modules/modules/week-6/chatbot-prototype.md)
-  * [Week 7: Speech-Driven Applications](modules/modules/week-7/README.md)
+  * [Week 7: Speech-Driven Interfaces](modules/modules/week-7/README.md)
     * [Assignment: Conversation Map](modules/modules/week-7/conversation-map.md)
-  * [Week 8: Voice-Based Interfaces](modules/modules/week-8/README.md)
+  * [Week 8: Voice-Based Experiences](modules/modules/week-8/README.md)
     * [Assignment: Voice-Based Prototype](modules/modules/week-8/voice-based-prototype.md)
   * [Week 9: User Testing](modules/modules/week-9/README.md)
     * [Assignment: Usability Analysis](modules/modules/week-9/usability-analysis.md)
@@ -38,14 +38,14 @@
 ## Resources
 
 * [Resources](resources/resources/README.md)
-  * [Participation Rules](resources/resources/participation.md)
   * [Tools](resources/resources/tools.md)
   * [Articles](resources/resources/articles.md)
   * [Bot Examples](resources/resources/examples.md)
 
 ## Assignment Examples
 
-* [Assignment Examples](assignment-examples/assignment-examples/README.md)
+* [Assignment Examples & Participation Rules](assignment-examples/assignment-examples/README.md)
+  * [Participation Rules](assignment-examples/assignment-examples/participation.md)
   * [Example: Social Media Bot Concept/Image](assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)
   * [Example: Platform Analysis Example](assignment-examples/assignment-examples/platform-analysis-example.md)
 

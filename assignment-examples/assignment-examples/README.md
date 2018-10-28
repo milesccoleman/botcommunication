@@ -1,2 +1,2 @@
-# Assignment Examples
+# Assignment Examples & Participation Rules
 

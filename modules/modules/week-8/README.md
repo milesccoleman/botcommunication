@@ -1,4 +1,4 @@
-# Week 8: Voice-Based Interfaces
+# Week 8: Voice-Based Experiences
 
 ## Making Natural Voice Experiences
 

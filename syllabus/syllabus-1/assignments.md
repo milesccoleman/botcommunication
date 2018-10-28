@@ -4,7 +4,7 @@
 
 | **Assignment**  | **Point Value** |
 | :--- | :--- |
-| \*\*\*\*[Participation](../../resources/resources/participation.md) | 150 |
+| \*\*\*\*[Participation](../../assignment-examples/assignment-examples/participation.md) | 150 |
 | [Platform Analysis](../../modules/modules/content-getting-communication-work-done-ethically-and-legally/platform-analysis.md) | 50 |
 | [Social Media Bot Concept/Image](../../modules/modules/content-machines-as-advocates/twitterbot-concept-image.md) | 50 |
 | [Social Media Bot](../../modules/modules/week-4/twitterbot.md) | 100 |
