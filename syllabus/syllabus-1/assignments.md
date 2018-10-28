@@ -1,13 +1,13 @@
 # Assignments
 
-
+## Assignments
 
 | **Assignment**  | **Point Value** |
 | :--- | :--- |
 | \*\*\*\*[Participation](../../resources/resources/participation.md) | 150 |
-| [Platform Analysis](../../modules/modules/week-2/platform-analysis.md) | 50 |
-| [Social Bot Concept/Image](../../modules/modules/week-3/twitterbot-concept-image.md) | 50 |
-| [Social Bot](../../modules/modules/week-4/twitterbot.md) | 100 |
+| [Platform Analysis](../../modules/modules/content-getting-communication-work-done-ethically-and-legally/platform-analysis.md) | 50 |
+| [Social Media Bot Concept/Image](../../modules/modules/content-machines-as-advocates/twitterbot-concept-image.md) | 50 |
+| [Social Media Bot](../../modules/modules/week-4/twitterbot.md) | 100 |
 | [Chatbot Persona](../../modules/modules/week-5/chatbot-persona.md) | 50 |
 | [Chatbot Prototype](../../modules/modules/week-6/chatbot-prototype.md) | 100 |
 | [Conversation Map](../../modules/modules/week-7/conversation-map.md) | 50 |

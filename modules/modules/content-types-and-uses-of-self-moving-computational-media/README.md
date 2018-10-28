@@ -1,4 +1,4 @@
-# Content: Computational Media & Automated Communication
+# Week 1: Computational Media & Automated Communication
 
 ## Computational Media and Automated Communication
 

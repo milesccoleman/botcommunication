@@ -1,2 +1,2 @@
-# Assignment: Social Machinic Bot
+# Assignment: Social Media Bot
 

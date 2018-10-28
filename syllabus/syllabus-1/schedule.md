@@ -2,12 +2,12 @@
 
 | \*\*\*\* | **Overview and Introduction to Automated Communication**  |
 | :--- | :--- |
-|  Week 1 | [Automated Communication    ](../../modules/modules/content-1/)  |
-|  Week 2 | [Platforms, Ethics, Legality  ](../../modules/modules/week-2/) |
+|  Week 1 | [Computational Media and Automated Communication](../../modules/modules/content-types-and-uses-of-self-moving-computational-media/)      |
+|  Week 2 | [Platforms, Ethics, Legality ](../../modules/modules/content-getting-communication-work-done-ethically-and-legally/)  |
 
 |  | **Social Bots**                                                                                |
 | :--- | :--- |
-|  Week 3 | [Social Bots ](../../modules/modules/week-3/) |
+|  Week 3 | [Social Machines](../../modules/modules/content-machines-as-advocates/) |
 |  Week 4 | [Message Scripting  ](../../modules/modules/week-4/) |
 
 |  | **Chatbots** |

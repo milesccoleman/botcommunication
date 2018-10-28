@@ -1,13 +1,30 @@
 # Outcomes
 
+## Outcomes
+
+This course has been designed to build knowledge and skills within the arena of computational media, giving special focus to social media bots, conversational interfaces, and voice-based experiences. Upon completion of this coures, you will be able to: 
+
 {% hint style="info" %}
-This course has been designed with the intent of building skill sets and knowledge within the arena of computational media, giving special focus to bots, conversational interfaces, and automated communication design. When you are done with this course you will be able to the following. 
+Identify types of automated communication and their uses. 
 {% endhint %}
 
-1. Identify contemporary types of automated communication and their uses. 
-2. Describe the history of automated communication technologies. 
-3. Demonstrate awareness of the ethical and legal implications of automated messaging.  
-4. Analyze audiences and use-cases of specific instances of computational media.  
-5. Systematically design and produce an automated communication experience. 
-6. Assess the usability/accessibility of a given piece of computational media. 
+{% hint style="info" %}
+Demonstrate awareness of the ethical and legal implications of automated messaging. 
+{% endhint %}
+
+{% hint style="info" %}
+Analyze audiences and use-cases of automated communication experiences. 
+{% endhint %}
+
+{% hint style="info" %}
+Systematically design automated communication experience. 
+{% endhint %}
+
+{% hint style="info" %}
+Successfully produce social media bots, conversational interfaces, and voice-based experiences. 
+{% endhint %}
+
+{% hint style="info" %}
+Assess the usability/accessibility of an automated communication experience. 
+{% endhint %}
 

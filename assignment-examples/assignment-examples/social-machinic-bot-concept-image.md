@@ -1,6 +1,6 @@
-# Example: Social Machinic Bot Concept/Image
+# Example: Social Media Bot Concept/Image
 
-## **My Idea for a Social Machinic Bot**
+## **My Idea for a Social Media Bot**
 
 ### **Bot Name**
 

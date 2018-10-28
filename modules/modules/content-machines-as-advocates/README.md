@@ -1,4 +1,4 @@
-# Content: Social Machines
+# Week 3: Social Machines
 
 ## Social Machines
 
@@ -7,6 +7,12 @@ Usually when we're talking about something being _social_, it involves the coord
 Inanimate matter--like a rock--on the other hand, even if you were to talk to one, wouldn't necesarily be a social being, it is just a _thing_ that you are treating socially. As such, prevailing wisdome tells us that non-living matter can be regarded socially, but, it most emphatically is _not social_. 
 
 But what about bots? They are made up of silicon processors firing off software. There is no way we might think of them as social beings, right? 
+
+Well, once they start operating on social media platforms, which, for all intents and purposes, were foundationally designed for social beings, things get a little complicated. 
+
+In this module, we'll discuss social media bots. But we'll be defining two different kinds of social media bots, both of which operate on social media platforms, but in very different ways. 
+
+The two kinds of social media bots we'll be discussing are: _social bots_ and _machinic bots_. 
 
 ### 
 
@@ -26,7 +32,7 @@ Unsurprisingly, the Turing Test \(as it later came to be called\) relied on comm
 
 If, after conversing with Being A and Being B, the person \(Being C\) cannot destinguish between the computer and their fellow person, one could say that the computer is sufficiently demonstrating intelligence. \(As to whether or not it _actually_ possesses intelligence is another matter, and one that Turing very wisely instructs us to avoid getting wrapped up in.\) 
 
-While we are not necessarily interested in "spoofing" intelligence in this course, we _are_ interested in another outcome achieved by passing the Turing test: the computer's achievement of the status of a _social_ being. 
+While we are not necessarily interested in "spoofing" intelligence in this course, we _are_ interested in another outcome achieved by passing the Turing test: the computer's achievement of the status of a _social_ _being_. 
 
 If the person cannot distinguish between the two entities behind the wall, the options they are left with are to either 1\) treat both entities as inanimate _things_, or 2\) to treat both entities as _social_ beings. Since option 1 runs the risk of treating a real person like a machine \(disrespecting that person, in other words\) we are more likely to choose option 2. 
 
@@ -84,7 +90,7 @@ With these kinds of examples it's easy to see that social bots are a problem. Ho
 
 Because they rely on deception, here in class we won't be making social bots. But it is important to think deeply alongside the more dystopic realities of such strategies, right alongside the possibilities of more utopian ones.  
 
-There are also social machines that are more "up front" about being bots. 
+There are also social media machines that are more "up front" about being bots. 
 
 
 
@@ -111,7 +117,7 @@ Imagine interacting with one of those robots. Imagine further that you witnessed
 In any case you would treat the messages created by that bot \(as social as they may seem\) as those with their very own "aura," or special energy: a machinic aura. 
 
 {% hint style="success" %}
-**Machinic bots** are bots that exact communicative effects that rely on the ability to appear as machines. That is, social bots, are bots that employ the strategy of enhancing messages with machinic aura \(the energy of a machine\) in order to compell humans. 
+**Machinic bots** are bots that exact communicative effects precisely because they appear to communicate as _machines_. That is, machinic bots employ the strategy of enhancing messages with machinic aura \(the energy of a machine\) in order to compell humans. 
 
 _Note: While not relying on the status of a social entity per se, a machinic bot is technically also a social machine in that it is designed to coordinate meaning with humans._ 
 {% endhint %}
@@ -120,7 +126,7 @@ _Note: While not relying on the status of a social entity per se, a machinic bot
 
 #### Machines as Communicators 
 
-Combining our earlier [discussion](../content-1/content-types-and-uses-of-self-moving-computational-media.md) of automated communication as exposition, persuasion, and artistic experience with the current discussion of machinic bot strategies it is useful to imagine the bot as their own entities as they make their own messages. This has implications to our main categories of automated communication. 
+Combining our earlier [discussion](../content-types-and-uses-of-self-moving-computational-media/) of automated communication as exposition, persuasion, and artistic experience with the current discussion of machinic bot strategies it is useful to imagine the bot as their own entities as they make their own messages. Machinic bots have implications to our main categories of automated communication. 
 
 
 
@@ -146,7 +152,9 @@ Perhaps in a way that combines elements of art and exposition, we can also make 
 
 ![](../../../.gitbook/assets/screen-shot-2018-10-26-at-1.19.54-pm.png)
 
-The overall learning moment here is that, yes, social bot strategies work by tricking people, and therefore, are largely untenable as an ethical means of communication. However, just because machinic bot strategies are not tricking people into thinking they are human doesn't mean ethical consideration of the kinds of messaging they create is not necessary. 
+The overall learning moment here is that, yes, social bot strategies work by tricking people, and therefore, are largely untenable as an ethical means of communication. 
+
+However, just because machinic bot strategies are not tricking people into thinking they are human doesn't mean they are beyond ethical consideration. 
 
 Machines can argue, and sometimes, we listen to them _specifically because they are machines_. 
 
@@ -162,7 +170,7 @@ Machines can argue, and sometimes, we listen to them _specifically because they 
 
 #### **Assignments**
 
-When you are done with the readings for the week, building on your work [analyzing a bot platform](../week-2/platform-analysis.md), and looking on to our upcoming [social machinic bot](../week-4/twitterbot.md) assignment, come up with a [social machinic bot concept/image](twitterbot-concept-image.md). 
+When you are done with the readings for the week, building on your work [analyzing a bot platform](../content-getting-communication-work-done-ethically-and-legally/platform-analysis.md), and looking on to our upcoming [social media bot](../week-4/twitterbot.md) assignment, come up with a [social media bot concept/image](twitterbot-concept-image.md). 
 
 
 

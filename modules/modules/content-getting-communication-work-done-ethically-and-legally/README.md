@@ -1,4 +1,4 @@
-# Content: Doing Automated Communication Ethically and Legally
+# Week 2: Platforms, Ethics, Legality
 
 ## The Ethics and Legality of Bot Platforms
 
