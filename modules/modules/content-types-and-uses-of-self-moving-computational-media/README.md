@@ -99,15 +99,13 @@ As is aparent from the course description as well as the start of this current s
 
 ### 
 
-### The Kinds of Bots We'll be Making
+## The Kinds of Bots We'll be Making
 
 [Bots](https://en.wikipedia.org/wiki/Internet_bot) have been around for a lot longer than you'd think. And, they do all sorts of things. [They](http://benlandes.com/index.php?page=uwcoursebot) might "listen" for the available classes for a given term in order to "get there" first and to complete the registration for a student who has a finite registration window. There are even [bots](https://woebot.io) designed to help give people an avendue for "talking it out" when they are in psychological distress. 
 
 Bots exist on a spectrum of "sociality," meaning that some bots are designed, and scripted to interact directly with people, while some others are designed to work in the "background" without bothering people. We'll be making bots that fall heavier on the social side of the spectrum. 
 
-#### 
-
-#### Three Types of Bots that We'll be Focusing On
+We'll be focusing on making three differnet kinds of bots. 
 
 {% hint style="info" %}
 **Social bots** are instances of automated communication that use social media to share messaging. Sometimes they are used to "[tweet](https://news.vice.com/en_us/article/ne4w3k/alt-right-racists-twitter-bot)" relentlessly at a given hashtag on Twitter. Other times, they might bring levity to discussion forums on Reddit by making random jokes. 
@@ -137,7 +135,7 @@ With all of this in mind, think about your own passions interests and talents. A
 
 
 
-### Major Assignments for the Term
+## Major Assignments for the Term
 
 The course has been designed around four major assignments. Three of them are smaller bot projects. 
 
@@ -153,7 +151,7 @@ For the fourth major assignment, you will build on one of the three small bot pr
 
 
 
-### This Week's Readings and Assignments
+## This Week's Readings and Assignments
 
 #### Readings
 

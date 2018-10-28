@@ -44,7 +44,7 @@ Because the law doesn't always capture what is wrong to do in emerging technolog
 
 
 
-### Doing Good with Bots
+## Doing Good with Bots
 
 Did you know that as of July 1st, 2019 a [law](https://www.law.com/legaltechnews/2018/10/05/will-californias-new-bot-law-be-more-than-just-a-statement/?slreturn=20180918141419) will take effect that makes it illegal to attempt to make a sale or a statement about politics in California with a bot that is "undeclared" \(does not tell people it is a bot\)? 
 
@@ -118,7 +118,7 @@ There are many bot platforms. This is but just a small list of those. No matter 
 
 ### 
 
-### **This Week's Reading and Assignments**
+## **This Week's Reading and Assignments**
 
 #### **Reading**
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cover Page](README.md)
+* [Bots, Communication, and Advocacy](README.md)
 
 ## Syllabus
 

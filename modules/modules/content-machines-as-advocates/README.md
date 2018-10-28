@@ -8,7 +8,7 @@ Inanimate matter--like a rock--on the other hand, even if you were to talk to on
 
 But what about bots? They are made up of silicon processors firing off software. There is no way we might think of them as social beings, right? 
 
-Well, once they start operating on social media platforms, which, for all intents and purposes, were foundationally designed for social beings, things get a little complicated. 
+Once our bots start operating on social media platforms, which, for all intents and purposes, were foundationally designed for social beings, things get a little complicated. 
 
 In this module, we'll discuss social media bots. But we'll be defining two different kinds of social media bots, both of which operate on social media platforms, but in very different ways. 
 
@@ -16,13 +16,13 @@ The two kinds of social media bots we'll be discussing are: _social bots_ and _m
 
 ### 
 
-### Social Bots
+## Social Bots
 
 Some bots are effective because they are able to trick us into thinking that they are social beings, wielding the gravitas of a fellow person. Using the famous "Turing Test," we will define such bots below as _social bots_.  
 
 
 
-#### The \(Social\) Turing Test 
+### The \(Social\) Turing Test 
 
 In 1950, Alan Turing--a famous character in the history of computing and the philosophy of conciousness--came up with a test for assessing whether or not a machine had successfully reached the level of intelligence of a person.
 
@@ -38,7 +38,7 @@ If the person cannot distinguish between the two entities behind the wall, the o
 
 
 
-#### The Problem of Social Machines
+### The Problem of Social Machines
 
 The problem with a machine that can pass the Turing test and successfully mimic another person is that, for better or worse, we humans appreciate when more than one person believes something. We give gravity to what our fellow social beings conclude to be true about the world. 
 
@@ -94,13 +94,13 @@ There are also social media machines that are more "up front" about being bots.
 
 
 
-### Machinic Bots
+## Machinic Bots
 
 In contrast to social bots, there are also bots that are effective precisely because they are _machines._ We will define these as _machinic bots_. 
 
 
 
-#### The Machinic "Aura"
+### The Machinic "Aura"
 
 "The Kingdom of Rome" is a story derived from the _Lokapannatti_, a Pali text written in the MIddle Ages.  In the story, Ajataśatru, an ancient Indian king learns of the well-gaurded Roman secret of making "spirit movement engines." With the help of an engineer versed in the art of making such machines, he builds a set of robot gaurds to protect a shrine full of Buddhist relics. 
 
@@ -124,7 +124,7 @@ _Note: While not relying on the status of a social entity per se, a machinic bot
 
 #### 
 
-#### Machines as Communicators 
+### Machines as Communicators 
 
 Combining our earlier [discussion](../content-types-and-uses-of-self-moving-computational-media/) of automated communication as exposition, persuasion, and artistic experience with the current discussion of machinic bot strategies it is useful to imagine the bot as their own entities as they make their own messages. Machinic bots have implications to our main categories of automated communication. 
 
@@ -160,7 +160,7 @@ Machines can argue, and sometimes, we listen to them _specifically because they 
 
 ### \*\*\*\*
 
-### **This Week's Reading and Assignments**
+## **This Week's Reading and Assignments**
 
 #### **Reading**
 
