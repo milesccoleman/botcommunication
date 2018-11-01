@@ -16,7 +16,7 @@ All platforms have a terms of use. And, each of them is unique. Terms of use are
 
 ### Instructions
 
-1. Choose one of the platforms \(i.e., Slack, Twitter, Instagram, Facebook Messenger,  Alexa, or Kik\) discussed in the reading. _\(Note: Instagram, because their terms of use do not allow much room for automation will be off-limits.\)_ 
+1. Choose one of the platforms \(i.e., Slack, Twitter, Instagram, Facebook Messenger,  Alexa, or Kik\) discussed in the reading. _\(Note: Instagram's terms of use do not allow much room for automation, and so, will be off-limits as a final project option.\)_ 
 2. Study the terms of use for your chosen platform. 
    1. What are the specific rules that matter to bot makers? 
    2. What are the specific wordings of those rules? Copy them directly into a document so you can share them later. 

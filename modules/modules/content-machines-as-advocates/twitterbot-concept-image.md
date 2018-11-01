@@ -2,7 +2,7 @@
 
 ## Social Media Bot Concept/Image 
 
-Using what you learned from your platform analysis, you will start doing preliminary design work for a machinic bot that will operate on a social media platform. In a Gitbook document, you'll describe your concept, set up your social media account, decide on what tools you'll use to build your bot, and create a profile image. 
+Using what you learned from your platform analysis, you will start doing preliminary design work for a [social media bot ](../week-4/twitterbot.md)that will operate on a social media platform. In a Gitbook document, you'll describe your concept, set up your social media account, decide on what tools you'll use to build your bot, and create a profile image. 
 
 ### 
 

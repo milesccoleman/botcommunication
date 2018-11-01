@@ -40,7 +40,7 @@ Terms of use can be violated by a user, which is enforced usually by the termina
 _Terms of use, while legally binding, and often written in ways that are mindful of what is legal or illegal, are written by specific organizations. Terms of use can protect users. In many cases, however, the priority of the terms of use is the organization._ 
 {% endhint %}
 
-Because the law doesn't always capture what is wrong to do in emerging technology fields, we'll be striving also for ethical uses of bots. That is to say, as explore and expand the limits of automated communication--something we should be doing--it is always with an eye for what kind of character we are demonstrating as bot makers, what kinds of acts our bots are engageing, and what kinds of consequences come from those actions. 
+Because the law doesn't always capture what is wrong to do in emerging technology fields, we'll be striving also for ethical uses of bots. That is to say, as we explore and expand the limits of automated communication--something we should be doing--we will do so with an eye for what kind of character we are demonstrating as bot makers, what kinds of acts our bots are engaging, and what kinds of consequences come from those actions. 
 
 
 
@@ -64,7 +64,7 @@ Beyond considering the broader ethical nature of our bot designs, there are also
 
 ### **Specific Platforms and their Terms of Use** 
 
-Each bot platform has its own norms and expectations articulated in its terms of use \(and in broader acceptable practice on that medium\). So**,** we also need to think about whether or not our particuar bot design is appropriate for the platform we're using. The pimary platforms that we'll be making bots on are listed below. 
+Each bot platform has its own norms and expectations articulated in its terms of use \(and in broader acceptable practice on that medium\). So**,** we also need to think about whether or not our particuar bot design is appropriate for the platform we're using. The pimary platforms that we'll be making bots on are listed below \(except for Instagram\). 
 
 
 
