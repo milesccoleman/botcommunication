@@ -59,7 +59,7 @@ Check out _American Rhetoric_ for examples of good speeches. These can be hugely
 
 {% embed url="https://www.americanrhetoric.com/" %}
 
-#### \*\*\*\*
+\*\*\*\*
 
 #### **Some Examples of Monologic Bots**
 
