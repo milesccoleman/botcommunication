@@ -46,6 +46,7 @@
 
 * [Assignment Examples & Participation Rules](assignment-examples/assignment-examples/README.md)
   * [Participation Rules](assignment-examples/assignment-examples/participation.md)
-  * [Example: Social Media Bot Concept/Image](assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)
   * [Example: Platform Analysis Example](assignment-examples/assignment-examples/platform-analysis-example.md)
+  * [Example: Social Media Bot Concept/Image](assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)
+  * [Example: Social Media Bot](assignment-examples/assignment-examples/example-social-media-bot.md)
 

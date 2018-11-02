@@ -128,7 +128,7 @@ There are many bot platforms. This is but just a small list of those. No matter 
 
 #### **Assignments**
 
-When you are done with the readings for the week, choose a platform from the options covered \(i.e., Slack, Twitter, Instagram, Facebook Messenger,  Alexa, or Kik\). Study the terms of use for that specific platform and then write a [**Platform Analysis**](platform-analysis.md) that teaches the reader what the rules are for making bots on that platform. 
+When you are done with the readings for the week, choose a platform from the options covered \(i.e., Slack, Twitter, Instagram, Facebook Messenger,  Alexa, or Kik\). Study the terms of use for that specific platform and then **write a** [**Platform Analysis**](platform-analysis.md) that teaches the reader what the rules are for making bots on that platform. 
 
 
 

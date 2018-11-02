@@ -67,7 +67,7 @@ Making monologic bot strategies is a lot like being a speech writer, only your m
 
 {% embed url="http://nymag.com/intelligencer/2015/11/12-weirdest-funniest-smartest-twitter-bots.html" %}
 
-What was your favorite example? What kinds of social scripts is it following \(or breaking\)? 
+What was your favorite example? What kinds of social scripts is it following \(or breaking\)? What are your ideas for making a monologic [social media bot ](twitterbot.md)this week? 
 
 ### \*\*\*\*
 
@@ -78,6 +78,10 @@ Though we can be moved by powerful, well-crafted monologic communication, anothe
 Dialogic--like monologic--also has Greek roots in the prefix _dia_, "across," and _logos_, "word" \(or "speech"\)--"words across." The distinct difference between monologic and dialogic scripts is that where monologic scripts are involved in contexts where _response_ is not expected, dialogic scripts are based in navigating expectations of response. 
 
 Some bots are good public speakers, others are good conversationalists; both require effective consideration of social scripts in order to be successful. 
+
+One of the main tools of planning successful dialogues is the _dialogue tree_ \(later in the term, we'll be making our own\). The pre-built responses of chatbots can be visualized into maps that illutrate the sequencing of a given dialogic exchange. 
+
+![Example of a Dialogue Tree](../../../.gitbook/assets/512px-dialog_tree_example.svg.png)
 
 
 
@@ -101,11 +105,21 @@ Making dialogic bot strategy requires thinking about the exchanges and responses
 
 {% embed url="https://botlist.co/bots/bff-trump" %}
 
-What was your favorite example? What kinds of social scripts is it following \(or breaking\)? 
+What was your favorite example? What kinds of social scripts is it following \(or breaking\)? Does this give you ideas for how you want to start thinking about the [chatbot](../week-6/chatbot-prototype.md) and/or [voice-based experience](../week-8/voice-based-prototype.md) you'll be making later in the term? 
 
-### \*\*\*\*
 
-#### 
 
-{% embed url="https://botacademy.com/blog/how-to-create-a-chat-bot-on-facebook-messenger-with-no-coding/" %}
+## This Week's Readings and Assignments
+
+#### Readings
+
+**Chapters 8 and 9 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the kinds of scripting that take place in bot design. Also, think about what kinds of content you're excited to bring into your bots. Will you use emojis in your social media bot? .gif files later in the term when you make your chatbot? 
+
+
+
+#### Assignments
+
+Applying what you've learned from the readings, and conintuing the work you started in your [social media bot concept/image](../content-machines-as-advocates/twitterbot-concept-image.md) assignment, you will **make a** [**social media bot**](twitterbot.md). 
+
+
 

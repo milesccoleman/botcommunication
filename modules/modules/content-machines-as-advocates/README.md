@@ -170,7 +170,7 @@ Machines can argue, and sometimes, we listen to them _specifically because they 
 
 #### **Assignments**
 
-When you are done with the readings for the week, building on your work [analyzing a bot platform](../content-getting-communication-work-done-ethically-and-legally/platform-analysis.md), and looking on to our upcoming [social media bot](../week-4/twitterbot.md) assignment, come up with a [social media bot concept/image](twitterbot-concept-image.md). 
+When you are done with the readings for the week, building on your work [analyzing a bot platform](../content-getting-communication-work-done-ethically-and-legally/platform-analysis.md), and looking on to our upcoming [social media bot](../week-4/twitterbot.md) assignment, **come up with a** [**social media bot concept/image**](twitterbot-concept-image.md). 
 
 
 

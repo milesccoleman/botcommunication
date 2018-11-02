@@ -108,7 +108,7 @@ Bots exist on a spectrum of "sociality," meaning that some bots are designed, an
 We'll be focusing on making three differnet kinds of bots. 
 
 {% hint style="info" %}
-**Social bots** are instances of automated communication that use social media to share messaging. Sometimes they are used to "[tweet](https://news.vice.com/en_us/article/ne4w3k/alt-right-racists-twitter-bot)" relentlessly at a given hashtag on Twitter. Other times, they might bring levity to discussion forums on Reddit by making random jokes. 
+**Social media bots** are instances of automated communication that use social media to share messaging. Sometimes they are used to "[tweet](https://news.vice.com/en_us/article/ne4w3k/alt-right-racists-twitter-bot)" relentlessly at a given hashtag on Twitter. Other times, they might bring levity to discussion forums on Reddit by making random jokes. 
 
 _The defining characteristic of a social bot is that it is an automated system, operating a social media account._ 
 {% endhint %}
@@ -141,7 +141,7 @@ The course has been designed around four major assignments. Three of them are sm
 
 #### Individual Bot Projects 
 
-1. [Social Bot](../week-4/twitterbot.md)
+1. [Social Media Bot](../week-4/twitterbot.md)
 2. [Chatbot](../week-6/chatbot-prototype.md)
 3. [Voice-Based Experience](../week-8/voice-based-prototype.md)
 
@@ -155,13 +155,11 @@ For the fourth major assignment, you will build on one of the three small bot pr
 
 #### Readings
 
-**Chapters 1 and 2 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Take notes about the things that you find interesting and are excited about \(these will come in handy as you do your discussion post for the week. 
+**Chapters 1 and 2 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Take notes about the things that you find interesting and are excited about \(these will come in handy as you do your discussion post for the week\). 
 
 
 
 #### Assignments
 
-After you do this week's reading share your thoughts on what kinds of projects we're interested to explore and make \(e.g., Would your automated communication deal with expository, persuasive, or artistic discourses?\). 
-
-You'll find more details in the [**Machines as Communicators**](discussion-1.md) ****assignment description on the following page. 
+After you do this week's reading **share your thoughts on what kinds of projects we're interested to explore and make in the** [**Machines as Communicators**](discussion-1.md) **discussion** \(e.g., Would your automated communication deal with expository, persuasive, or artistic discourses?\). 
 

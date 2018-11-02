@@ -17,7 +17,7 @@ Using what you learned from your platform analysis, you will start doing prelimi
 
 ### Instructions
 
-1. Choose one of the platforms \(i.e., Slack, Twitter, Instagram, Facebook Messenger,  Alexa, or Kik\) discussed in the reading. _\(Note: An Instagram bot, because their terms of use do not allow much room for automation will be off-limits.\)_ 
+1. Choose a platform for your social media bot \(i.e., Twitter or Facebook Messenger\). 
 2. While making specific reference to the platform analysis you've written previously discuss the following. 
    1. What is your idea for a bot?  
    2. What platform will your bot "live" on? 
@@ -29,11 +29,11 @@ Using what you learned from your platform analysis, you will start doing prelimi
    3. Add your image to the profile page. 
    4. Copy the URL to your bot's social media profile page. 
 4. Go to the [GitBook](https://www.gitbook.com) book you made for your platform analysis. 
-   1. Make a page within that book that is descriptively titled and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, find an example of what your document might look like_ [_here_](../../../assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)_.\)_
+   1. Make a page within that book that is descriptively titled and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, **find an** **example of what your document might look like**_ [_**here**_](../../../assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)_.\)_
       1. Your bot name. 
       2. Your bot description. 
       3. A rationale for its existence \(does it add to art, help us think about politics?\). 
-      4. An overview of the tool you plan to use, and how you plan to use it to make your bot. 
+      4. An overview of the tool\(s\) you plan to use, and how you plan to use it to make your bot. 
       5. A brief statement about how you will be designing the bot in a way that respects the terms of use of your platform. 
       6. The URL to your bot's new profile page. 
 5. Submit the GitBook link for your book to the assignment window on Canvas. 

@@ -6,6 +6,10 @@
 
 {% embed url="https://cheapbotsdonequick.com" %}
 
+### Facebook Messenger 
+
+{% embed url="https://botacademy.com/blog/how-to-create-a-chat-bot-on-facebook-messenger-with-no-coding/" %}
+
 ## Chatbot Tools
 
 ### "Embed-able" Chatbots
