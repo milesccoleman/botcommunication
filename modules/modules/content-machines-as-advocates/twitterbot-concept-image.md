@@ -18,7 +18,7 @@ Using what you learned from your platform analysis, you will start doing prelimi
 ### Instructions
 
 1. Choose a platform for your social media bot \(i.e., Twitter or Facebook Messenger\). 
-2. While making specific reference to the platform analysis you've written previously discuss the following. 
+2. While making specific reference to the platform analyses that you and your classmates wrote previously, discuss the following. 
    1. What is your idea for a bot?  
    2. What platform will your bot "live" on? 
    3. What tools will you use to creat your bot? \(Find a list of tools [here](../../../resources/resources/tools.md).\) 

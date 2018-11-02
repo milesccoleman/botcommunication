@@ -24,7 +24,7 @@ I am using Twitter as the platform for the bot. As we learned last week in my [p
 
 ### **M​y Bot's Profile Page**
 
-Note: The example profile includeed here already has a bot creating messages. For this assignment, it is perfectly fine to turn in a profile that does not yet have any messages generated. 
+_Note: The example profile includeed here already has a bot creating messages. For this assignment, it is perfectly fine to turn in a profile that does not yet have any messages generated._ 
 
 {% embed url="https://twitter.com/dtac\_bot" %}
 

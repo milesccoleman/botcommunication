@@ -28,7 +28,7 @@ Unsurprisingly, the Turing Test \(as it later came to be called\) relied on comm
 
 ![](../../../.gitbook/assets/630px-turing_test_diagram.png)
 
-If, after conversing with Being A and Being B, the person \(Being C\) cannot destinguish between the computer and their fellow person, one could say that the computer is sufficiently demonstrating intelligence. \(As to whether or not it _actually_ possesses intelligence is another matter, and one that Turing very wisely instructs us to avoid getting wrapped up in.\) 
+If, after conversing with Being A and Being B, the person \(Being C\) cannot destinguish between the computer and their fellow person, one could say that the computer is sufficiently demonstrating intelligence. \(As to whether or not it _actually_ possesses intelligence is another matter, and one that Turing wisely instructs us to avoid getting wrapped up in.\) 
 
 While we are not necessarily interested in "spoofing" intelligence in this course, we _are_ interested in another outcome achieved by passing the Turing test: the computer's achievement of the status of a _social_ _being_. 
 
@@ -86,7 +86,7 @@ With these kinds of examples it's easy to see that social bots are a problem. Ho
 
 
 
-Because they rely on deception, here in class we won't be making social bots. But it is important to think deeply alongside the more dystopic realities of such strategies, right alongside the possibilities of more utopian ones.  
+Because they rely on deception, here in this class we won't be making social bots. But it is important to think deeply about the potentially dystopic consequences of such technologies, right alongside the more utopian ones.  
 
 There are also social media machines that are more "up front" about being bots. 
 
@@ -102,7 +102,7 @@ In contrast to social bots, there are also bots that are effective precisely bec
 
 "The Kingdom of Rome" is a story derived from the _Lokapannatti_, a Pali text written in the MIddle Ages.  In the story, Ajataśatru, an ancient Indian king learns of the well-gaurded Roman secret of making "spirit movement engines." With the help of an engineer versed in the art of making such machines, he builds a set of robot gaurds to protect a shrine full of Buddhist relics. 
 
-![Buddha-Pada Ikshvaku, 3rd century A.D. \(about 600 years after the alleged events of &quot;The Kingdom of Rome&quot;\), Nagarjunakonda - Kenneth Lu](../../../.gitbook/assets/5637635867_586dee7806_z.jpg)
+![Buddha-Pada Ikshvaku, 3rd century A.D. \(about 600 years after the alleged events of &quot;The Kingdom of Rome&quot;\), Nagarjunakonda -- Kenneth Lu](../../../.gitbook/assets/5637635867_586dee7806_z.jpg)
 
 Eventually, the robot gaurds are dismantled and King Aśoka \(Ajataśatru's grandson\) is able to collect the relics of the Buddha and redistribute them for all to appreciate. 
 
@@ -112,7 +112,7 @@ The story is whimsical, fantastic and beautifully asks the reader to reflect on 
 
 Imagine interacting with one of those robots. Imagine further that you witnessed one writing the poetry that would be used in the "Bot or Not?" website cited earlier? Would this not make that writing somehow magical? Or would you attribute nonhuman qualities to the robot, like objectivity?  
 
-In any case you would treat the messages created by that bot \(as social as they may seem\) as those with their very own "aura," or special energy: a machinic aura. 
+In any case, you would treat the messages created by that bot \(as social as they may seem\) as those with their very own "aura," or special energy--a machinic aura. 
 
 {% hint style="success" %}
 **Machinic bots** are bots that exact communicative effects precisely because they appear to communicate as _machines_. That is, machinic bots employ the strategy of enhancing messages with machinic aura \(the energy of a machine\) in order to compell humans. 
