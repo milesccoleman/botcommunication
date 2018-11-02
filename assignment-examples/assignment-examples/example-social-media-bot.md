@@ -36,11 +36,11 @@ First I came up with the basic kinds of message structures that I wanted the bot
 
 "Aristotle using cantankerous Python code with rhetoric is surprisingly cool",
 
-I then put the starting sentence into correct JSON format, and replaced the key nouns and ajectives with \#'d items to be replaced later by the bot. 
+Then, using the [visual editor](http://www.brightspiral.com/tracery/), I entered the starting sentence, which was then converted into correct JSON format, and replaced the key nouns and ajectives with \#'d items to be replaced later by the bot. See examples below.  
 
 #### 
 
-### Example of Starting Sentence in JSON 
+### Example of JSON Made by the Visual Editor
 
 ```text
 "#name# using #descriptions# #technology# with #idea# is #descriptions#", 
@@ -50,7 +50,7 @@ I did this four times, using the [visual editor](http://www.brightspiral.com/tra
 
 #### 
 
-### Putting the Sentence Structures into Bot's Code
+### Putting Together the Sentence Structures 
 
 The visual editor was able to put all of my sentences into JSON under the item "origin." 
 
