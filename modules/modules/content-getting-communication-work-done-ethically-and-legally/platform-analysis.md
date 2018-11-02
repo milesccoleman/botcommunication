@@ -25,7 +25,7 @@ All platforms have a terms of use. And, each of them is unique. Terms of use are
 3. Create a [GitBook](https://www.gitbook.com) account. 
 4. Make a book on GitBook that is descriptively titled with regard to this course. 
 5. Then, make a specific page within that book that is descriptively titled, and communicates the following information to the reader. _\(Find instructions on how to get started using GitBook_ [_here_](https://docs.gitbook.com/getting-started)_. Also, **find an example of what your document might look like**_ [_**here**_](../../../assignment-examples/assignment-examples/platform-analysis-example.md)_.\)_
-   1. The Rules on Bots Quoted Directly from the Terms of Use. 
+   1. The Rules Relevant to Bots Quoted Directly from the Terms of Use. 
    2. What the Rules Mean. 
    3. Rules of Thumb for Making _Platform Name_ Bots. 
 6. Submit the GitBook link for your document to the assignment window on Canvas. 
@@ -36,7 +36,7 @@ All platforms have a terms of use. And, each of them is unique. Terms of use are
 
 ### Grading Rubric
 
-The grading rubric contains more information on how this assignment will be graded. This document can be found on the course Canvas page for the Platform Anlaysis assignment. 
+The grading rubric contains more information on how this assignment will be graded. This document can be found on the course Canvas page for the Platform Analysis assignment. 
 
 ### 
 
