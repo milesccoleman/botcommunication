@@ -2,17 +2,15 @@
 
 ## Social Machines
 
-Usually when we're talking about something being _social_, it involves the coordination and communication between people and/or animals and/or insects and/or plants. My dog wags her tail to let me know she's happy. Blossums open to indicate that their nectar is avialable for bumble bees to consume. People smile at one another and share compliments to indicate that they appreciate others. 
+Usually when we're talking about the _social_, we are talking about the coordination and communication between people and/or animals and/or insects and/or plants. My dog wags her tail to let me know she's happy. Blossums open to indicate that their nectar is avialable for bumble bees to consume. People smile at one another and share compliments to indicate that they appreciate one another. 
 
-Inanimate matter--like a rock--on the other hand, even if you were to talk to one, wouldn't necesarily be a social being, it is just a _thing_ that you are treating socially. As such, prevailing wisdome tells us that non-living matter can be regarded socially, but, it most emphatically is _not social_. 
+The social is a category that we reserve for animate, living matter--even redwood trees 'talk' with other life, in their own way. Inanimate matter--like a rock--on the other hand, even if a human were to talk to one, wouldn't necesarily be a social being, it is just a _thing_ that a person is treating socially. As such, prevailing wisdom tells us that non-living matter can be regarded socially, but, it most emphatically is _not social_. 
 
 But what about bots? They are made up of silicon processors firing off software. There is no way we might think of them as social beings, right? 
 
 Once our bots start operating on social media platforms, which, for all intents and purposes, were foundationally designed for social beings, things get a little complicated. 
 
-In this module, we'll discuss social media bots. But we'll be defining two different kinds of social media bots, both of which operate on social media platforms, but in very different ways. 
-
-The two kinds of social media bots we'll be discussing are: _social bots_ and _machinic bots_. 
+In this module, we'll discuss social media bots. But we'll be defining two different kinds of social media bots, both of which operate on social media platforms, but in very different ways: _social bots_ and _machinic bots_. 
 
 ### 
 
