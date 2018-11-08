@@ -1,6 +1,6 @@
 # Week 3: Social Machines
 
-## Social Machines
+## Machines and the Social
 
 Usually when we're talking about the _social_, we are talking about the coordination and communication between people and/or animals and/or insects and/or plants. My dog wags her tail to let me know she's happy. Blossums open to indicate that their nectar is avialable for bumble bees to consume. People smile at one another and share compliments to indicate that they appreciate one another. 
 

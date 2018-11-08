@@ -1,6 +1,6 @@
 # Week 1: Computational Media & Automated Communication
 
-## Computational Media and Automated Communication
+## Computers as Communication Medium
 
 Communication is a defining characteristic of the human condition. As history marches on and society evolves, so too do our tools of messaging. In the Western tradition we have been studying media, and how to use those media effectively, for at least the last 2300 years. 
 
