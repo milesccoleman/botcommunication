@@ -11,7 +11,7 @@ Building from work you've already completed in your social media bot concept/ima
 1. To begin to apply the terms of use regarding automated communicaiton on a specific platform. 
 2. To practice thinking about social machinic bot strategies. 
 3. To start to become familiar with tools of bot-making. 
-4. To plan an implement a communication strategy aware of the social scripts pertinent to a given context of communication. 
+4. To plan and implement a communication strategy aware of the social scripts pertinent to a given context of communication. 
 5. To create our own technical documents. 
 
 ### 
@@ -19,7 +19,7 @@ Building from work you've already completed in your social media bot concept/ima
 ### Instructions
 
 1. Read through the [tutorial](twitterbot.md#tools-tutorials) for your chosen platform. 
-2. Using the "thow away" social media account, start making your bot.  
+2. Using your "thow away" social media account, start making your bot.  
 3. As you make your bot, keep notes. Make direct reference to your social media bot concept/image assignment and discuss the following. 
    1. What is your bot called? 
    2. What kind of bot is it?   

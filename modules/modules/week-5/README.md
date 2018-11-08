@@ -48,7 +48,7 @@ In marketing, the word _persona_ is often used to designate specific "kinds" of 
 **Persona** the characteristics of temperment, charm, dynamicism \(and others\) perceptible from the communication of a given entity \(can be machinic or social\). Personas can be appropriate or innapropriate. Being "jokey" while retrieiving answers  to someone's questions about a serious health condition, or being too dry while answering questions about a goofy video game seem like innapropriate choices of design regarding persona. 
 {% endhint %}
 
-The reason we use the word _persona_ and not personality is because we are thinking of the performance of particular characteristics, rather than the possesion of them. You can be a perfectly humble person. But if you don't communicate in a way that others can see that it is just an aspect of your personality, not yet represented in your persona. 
+The reason we use the word _persona_ and not personality \(as is the case in our textbook\) is because we are thinking of the performance of particular characteristics, rather than the possesion of them. You can be a perfectly humble person. But if you don't communicate in a way that others can see that it is just an aspect of your personality, not yet represented in your persona. 
 
 How will your bot communicate? What persona will it demonstrate in its communication? How will it demonstrate those characteristics? 
 
@@ -74,7 +74,7 @@ Let's look at two differnet examples.
 
 | Context & Purpose | Appropriate Characteristics | Register | Examples of Communication |
 | :--- | :--- | :--- | :--- |
-| Health Care/To Answer Questions about a Particular Facility | Capable; Optimistic;  Dutiful | High | "I can absolutely do that"; "Let's see what we can come up with"; "I am here to help."  |
+| Health Care/To Answer Questions about a Particular Facility | Capable; Optimistic;  Dutiful | High | "I can absolutely help you with that"; "Let's see what we can come up with"; "I am here to help."  |
 
 The items in the table above list are derived from looking at some resources online that specifically outline some principles for talking with people about cancer. After reading for a while about that context, some desirable characteristics for persons within that context were chosen--persons want reassurance, realistic, but positive outlook, and to feel supported; hence, capable, optimistic, and dutiful. After those characteristics were chosen, more reading led to the specific kinds of communication that would demonstrate those characteristics listed in the table. 
 
@@ -98,7 +98,7 @@ It is because when someone is "annoying," or "stupid," or "offputting" that pers
 
 #### Readings
 
-**Chapters 8 and 9 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the kinds of scripting that take place in bot design. Also, think about what kinds of content you're excited to bring into your bots. Will you use emojis in your social media bot? .gif files later in the term when you make your chatbot? 
+**Chapters 6 and 12 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the kinds of engagements and persona your bot will represent. 
 
 
 
