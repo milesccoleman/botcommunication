@@ -2,8 +2,7 @@
 
 ## Bot URL
 
-https://fxo.io/m/j2pq98dr
-
+{% embed url="https://fxo.io/m/j2pq98dr" %}
 
 
 
