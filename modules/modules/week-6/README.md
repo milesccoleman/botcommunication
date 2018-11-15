@@ -99,29 +99,47 @@ Believe it or not, what we are designing in this class are interfaces. Only inst
 
 When someone is given a closed-ended query they are usually being asked a question with a finite, often one-word answer. 
 
-> How old are you? 
+> Bot: How old are you? 
 >
-> 25
+> User: 25
 >
-> Are you a member of this bank? 
+> Bot: Are you a member of this bank? 
 >
-> No.
+> User: No.
 
-As it turns out this kind of information is useful to us as it helps us serve the user. The way this will translate into our conversational interface designs will be "arrays" of choice, built out of possibliities of closed-ended answer. 
+This kind of information is useful to us as it helps us serve the user. The way this will translate into our conversational interface designs will be "arrays" of choice, built out of possibliities of closed-ended answer. 
+
+Our interfaces will largely be composed of closed-ended questions. 
 
 
+
+#### Open-Ended Questions
+
+Open-ended questions leave it to the responder to choose how to answer. 
+
+> Bot: What is your favorite movie? 
+>
+> User: Jurassic Park
+>
+> Bot: What would you describe as the ideal vacation? 
+>
+> User: Being at home with my cat and dog.
+
+This kind of information is difficult to deal with in an automated fashion \(though in our reading for this week, we will learn little bit more about natural language processing as a means for doing so\). But, because it is so  natural, this kind of information is also desirable in conversational interfaces.  
+
+Just like any other kind of professional writing, crafting conversational interfaces happens through reiteration within a feedback loop between you \(the author\) and the user \(the readers\). As such, we'll be taking what we built last week and improving it through that process. 
 
 ## This Week's Readings and Assignments
 
 #### Readings
 
-**Chapters 6 and 12 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the kinds of engagements and persona your bot will represent. 
+**Chapters 7 and 16 of** [_**Designing Bots**_](file:///autocomm/~/edit/drafts/-LO_Kxqem2Og_1VNlU53/syllabus/syllabus-1/course-text)**.** Think about the conversation you will script. What are your relational and instrumental goals? Will your interface incorporate open-ended or closed questions? 
 
 
 
 #### Assignments
 
-Ramping up to our [Chatbot Prototype](chatbot-prototype.md), we will **make a** [**Chatbot Persona**](../week-5/chatbot-persona.md). 
+Building from our [Chatbot Persona](../week-5/chatbot-persona.md), we will **make a** [**Chatbot Prototype**](chatbot-prototype.md)\*\*\*\*
 
 
 
