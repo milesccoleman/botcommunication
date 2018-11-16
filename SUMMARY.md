@@ -50,4 +50,5 @@
   * [Example: Social Media Bot Concept/Image](assignment-examples/assignment-examples/social-machinic-bot-concept-image.md)
   * [Example: Social Media Bot](assignment-examples/assignment-examples/example-social-media-bot.md)
   * [Example: Chatbot Persona](assignment-examples/assignment-examples/example-chatbot-persona.md)
+  * [Example: Chatbot Prototype](assignment-examples/assignment-examples/example-chatbot-prototype.md)
 

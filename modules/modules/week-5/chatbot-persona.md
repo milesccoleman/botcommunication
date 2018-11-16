@@ -2,7 +2,7 @@
 
 ## Chatbot Persona 
 
-On our way to making our own Chatbot Prototype, we'll spend some time thinking about our bot's persona, as well as getting introduced to our chose chatbot platform. 
+On our way to making our own Chatbot Prototype, we'll spend some time thinking about our bot's persona, as well as getting introduced to our chosen chatbot platform. 
 
 ### 
 
@@ -27,8 +27,8 @@ On our way to making our own Chatbot Prototype, we'll spend some time thinking a
    4. Some sample phrases that fit with the context/purpose, characteristics, and register
 3.  Go to [Canva](https://www.canva.com/create/logos/), and make a logo for your bot. Save it as a .png. 
 4. Check out the chatbot [tool](chatbot-persona.md#tools-tutorials). 
-5. After reading about the platform, and checking out the tutorial. 
-   1. Using your "throw away" email account, set up an account. 
+5. After reading about the platform, and checking out the tutorial, use the chatbot tool to: 
+   1. Use your "throw away" email account to set up an account. 
    2. Create a new "bot" -- select "web" for your delivery platform. 
    3. Name your bot. 
    4. Add your bot logo .png file.
@@ -36,18 +36,17 @@ On our way to making our own Chatbot Prototype, we'll spend some time thinking a
    6. Save/create your bot. 
    7. Copy the URL for your bot and save it somewhere. 
 6. Using the sample phrases you generated in your table, start a new "flow," wherein the bot, after conversing with a user, shares those phrases. 
-7. After you have gotten a little bit of experience with the bot building tool, go to 
-8. Go to the [GitBook](https://www.gitbook.com) book you made for your previous assignments. 
-9. Make a page within that book that is descriptively titled and communicates the following information to the reader. _\(**Find an** **example of what your document might look like**_ [_**here**_](../../../assignment-examples/assignment-examples/example-chatbot-persona.md)_.\)_
+7. After you have gotten a little bit of experience with the bot building tool, go to the [GitBook](https://www.gitbook.com) book you made for your previous assignments. 
+8. Make a page within that book that is descriptively titled and communicates the following information to the reader. _\(**Find an** **example of what your document might look like**_ [_**here**_](../../../assignment-examples/assignment-examples/example-chatbot-persona.md)_.\)_
    1. The URL to your bot's messaging page. 
    2. Your bot name. 
    3. Your table of persona information. 
    4. An explanation of how you generated the information in your persona table. 
-   5. Screenshots and explnations of the current "flow" of your bot. 
+   5. Screenshots and explanations of the current "flow" of your bot. 
       1. As you discuss your flow, also talk about the things you had trouble with, or found easy, or that you'd like to eventually build into the bot.  
-10. Submit the GitBook link for your book to the assignment window on Canvas. 
-11. Also submit your GitBook link to the Slack channel. 
-12. Comment on one other persons GitBook document. 
+9. Submit the GitBook link for your book to the assignment window on Canvas. 
+10. Also submit your GitBook link to the Slack channel. 
+11. Comment on one other persons GitBook document. 
 
 ### 
 
