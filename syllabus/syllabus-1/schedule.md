@@ -17,8 +17,8 @@
 
 |  | **Speech-Driven Applications**                                                   |
 | :--- | :--- |
-|  Week 7 | [Voice-Based Experiences](../../modules/modules/week-7/) |
-|  Week 8 | [Speech-Driven Interfaces](../../modules/modules/week-8/)  |
+|  Week 7 | [Speech-Driven Interfaces ](../../modules/modules/week-7/) |
+|  Week 8 | [Voice-Based Experiences](../../modules/modules/week-8/) |
 
 |  | **Testing & Deployment**      |
 | :--- | :--- |
